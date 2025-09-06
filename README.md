@@ -55,6 +55,8 @@ The dashboard was built using the following tools and technologies:
 
 Here’s a screenshot of how the dashboard looks 👇
 
+🔗 Click here to view the project on GitHub
+
 6. Dataset & API References
 
 📂 Kaggle Dataset (Historical Weather Data): Kaggle Weather Datasets
