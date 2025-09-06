@@ -51,11 +51,13 @@ The dashboard was built using the following tools and technologies:
 
 🌍 Compare multiple cities dynamically
 
-5. Preview
+## **5. Preview**  
+Here’s a screenshot of how the dashboard looks 👇  
 
-Here’s a screenshot of how the dashboard looks 👇
+![Dashboard Preview](https://github.com/shivansh1609/Weather_dashboard/blob/main/Snapshot%20of%20dashboard.png)  
 
-🔗 Click here to view the project on GitHub
+🔗 **[Click here to view the project on GitHub](https://github.com/shivansh1609/Weather_dashboard)**
+
 
 6. Dataset & API References
 
